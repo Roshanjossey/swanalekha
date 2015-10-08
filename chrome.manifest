@@ -1,0 +1,2 @@
+content	swanalekha	content/
+overlay	chrome://browser/content/browser.xul	chrome://swanalekha/content/script-compiler-overlay.xul
