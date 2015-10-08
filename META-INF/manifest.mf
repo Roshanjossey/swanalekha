@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fjkMlDwMN7nwJqS3Sl9krA==
+SHA1-Digest: z0Q6DCchtFi8GCcUv2piFcyuQTE=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U41RSHBqbPHsfpgQbCnLrg==
+SHA1-Digest: JdHMurGuMo5VfV71FzpRLepw/FE=
+
+Name: content/prefman.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AcLRMN4E1UoA1vqxJnHTcg==
+SHA1-Digest: wLjKQNlp/dGA93cIuwKs4Qf/ys0=
+
+Name: content/script-compiler-overlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Eumas9Y0gWNA8pfjnNHuXw==
+SHA1-Digest: erpDSNcMpQkD6fKbSJp23Ikno3g=
+
+Name: content/script-compiler.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aZnr0B4B0zRcnVkXisFIFw==
+SHA1-Digest: acgNHM3dnqUFDxblrilDTfYEwYY=
+
+Name: content/swanalekha.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z1faJ9XYLK+IKm5XCO7o1Q==
+SHA1-Digest: GyKalQSULso8GoGRfWoy0CikEKY=
+
+Name: content/xmlhttprequester.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZEvqkQmoL1YIJ/v8ZCgfNw==
+SHA1-Digest: 9OLLupqDQ6D6CIknsZMJBNWcFoc=
+
